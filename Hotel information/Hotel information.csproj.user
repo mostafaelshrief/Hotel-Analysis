@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnalysisHotel\Analysis_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Analysis_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Month_Report_Analysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalysisHotel\Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Expenses_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\Month_Report_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesFolder\TheRopert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home_Hotel_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home_Yacht_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IcomeRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\BackView_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeBackView\Month_Report_BackView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\CampRoom_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeCamp\Month_Report_Camp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaView_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Income_Yacht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\Month_Report_SeaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InComeSeaView\SeaViewReom_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Apr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Aug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Dec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Feb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Jan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Jul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Jun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Mar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_May.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Nov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Oct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Mangers_Sep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mangers\Manger_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_AprR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_AugR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_DecR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_FebR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_JanR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_JulR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_JunR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_MarR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_MayR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_NovR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_OctR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_Resturant_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Analysis_SepR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\AnalysisResturant\Summary_Resturant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Apr_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Aug_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Dec_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Feb_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Jan_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Jul_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Jun_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Mar_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\May_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Nov_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Oct_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Resturant_Expenses_Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Restureanr_Report_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\ExpensesResturant\Sep_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\Home_Resturant_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Apr_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Aug_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Feb_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Dec_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Jan_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Jul_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Jun_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Mar_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\May_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Nov_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Oct_income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Report_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resturant\IncomeRestutant\Sep_Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yacht_Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

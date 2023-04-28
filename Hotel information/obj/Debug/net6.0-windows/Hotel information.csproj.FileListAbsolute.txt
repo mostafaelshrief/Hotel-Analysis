@@ -1,0 +1,295 @@
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Hotel information.exe
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Hotel information.deps.json
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Hotel information.runtimeconfig.json
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Hotel information.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Hotel information.pdb
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.AssemblyReference.cache
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Analysis_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Month_Report_Analysis.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Summary.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Expenses_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Month_Report_Expenses.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Form1.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Home_Hotel_Page.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Home_Yacht_Page.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.IcomeRooms.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Income.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.BackView_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.Month_Report_BackView.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.CampRoom_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom__May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.Month_Report_Camp.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Month_Report_SeaView.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.SeaViewReom_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Income_Yacht.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Login.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Apr.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Aug.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Dec.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Feb.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jan.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jul.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jun.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Mar.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_May.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Nov.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Oct.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Sep.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Manger_Report.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Properties.Resources.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Yacht_Expenses.resources
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.GenerateResource.cache
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.AssemblyInfoInputs.cache
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.AssemblyInfo.cs
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.CopyComplete
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\refint\Hotel information.dll
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.pdb
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\Hotel information.genruntimeconfig.cache
+C:\Users\Mostafa\source\repos\Hotel information\Hotel information\obj\Debug\net6.0-windows\ref\Hotel information.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Hotel information.exe
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Analysis_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Analysis_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Month_Report_Analysis.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.AnalysisHotel.Summary.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Expenses_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Expenses_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.Month_Report_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.ExpensesFolder.TheRopert.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Form1.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Home_Hotel_Page.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Home_Yacht_Page.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.IcomeRooms.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.BackView_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.BackView_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeBackView.Month_Report_BackView.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.CampRoom_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom__May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.CampRoom_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeCamp.Month_Report_Camp.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Month_Report_SeaView.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.SeaViewReom_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.InComeSeaView.SeaView_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Income_Yacht.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Login.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Apr.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Aug.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Dec.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Feb.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jan.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jul.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Jun.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Mar.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_May.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Nov.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Oct.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Mangers_Sep.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Mangers.Manger_Report.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Properties.Resources.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_AprR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_AugR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_DecR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_FebR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_JanR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_JulR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_JunR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_MarR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_MayR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_NovR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_OctR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_Resturant_Report.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Analysis_SepR.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.AnalysisResturant.Summary_Resturant.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Apr_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Aug_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Dec_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Feb_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Jan_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Jul_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Jun_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Mar_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.May_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Nov_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Oct_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Resturant_Expenses_Summary.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Restureanr_Report_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.ExpensesResturant.Sep_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.Home_Resturant_Page.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Apr_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Aug_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Dec_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Feb_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Jan_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Jul_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Jun_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Mar_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.May_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Nov_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Oct_income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Report_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Resturant.IncomeRestutant.Sep_Income.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel_information.Yacht_Expenses.resources
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.GenerateResource.cache
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.AssemblyInfo.cs
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.csproj.CopyComplete
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\refint\Hotel information.dll
+C:\Users\Mostafa\Downloads\information_Hotel-master\Hotel information\obj\Debug\net6.0-windows\Hotel information.pdb
